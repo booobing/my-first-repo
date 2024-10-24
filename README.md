@@ -1,4 +1,4 @@
-![Alt text](./src/Unicef_logo.png)
+![Unicef Logo](./src/Unicef_logo.png)
 
 # my-first-repo
 
